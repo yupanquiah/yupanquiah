@@ -12,7 +12,7 @@ A Passionate Backend Developer
 - 🌱 I’m currently learning **Go, TypeScript, Rust and web development.**
 
 - 👨‍💻 All of my projects are available at [..](www.comdlls.com)
-<img align="Right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><img align="right" alt="Go" width="100" src="https://user-images.githubusercontent.com/109688585/196823061-248249bd-f931-45b7-adb8-1bb0a6d488a1.gif">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><img align="right" alt="Go" width="100" src="https://user-images.githubusercontent.com/109688585/196823061-248249bd-f931-45b7-adb8-1bb0a6d488a1.gif">
 
 - 📫 How to reach me **hyupanquia24@gmail.com**
 
