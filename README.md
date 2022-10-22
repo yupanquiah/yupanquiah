@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1000&center=true&multiline=true&width=700&height=75&lines=+I'm+Humberto+Yupanqui+Apaza;Software+Engineering+student+with+AI+in+Peru)](#!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1000&center=true&multiline=true&width=700&height=75&lines=+I'm+Humberto+Yupanqui+Apaza;Software+Engineering+student+with+AI+in+Peru)
 
 ![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -8,12 +8,13 @@
 A Passionate Backend Developer 
  ```
 
+<img align="right" alt="coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?height=75" width="150"/>
+
+<!-- <img align="right" alt="Go" width="100" src="https://user-images.githubusercontent.com/109688585/196823061-248249bd-f931-45b7-adb8-1bb0a6d488a1.gif"> -->
 
 ### **_About me:_**
 
 - 🌱 I’m currently learning **Go, TypeScript, Rust and web development.**
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?height=75" width="150"/><img align="right" alt="Go" width="100" src="https://user-images.githubusercontent.com/109688585/196823061-248249bd-f931-45b7-adb8-1bb0a6d488a1.gif">
 
 - 👨‍💻 All of my projects are available at [..](www.comdlls.com)
 
@@ -22,6 +23,7 @@ A Passionate Backend Developer
 - ⚡ Fun fact **I am fun and friendly.**
 
 - 💡 I love new technologies.
+
 
 ![facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)
 ![instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)
