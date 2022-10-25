@@ -21,8 +21,6 @@ A Passionate Backend Developer
 
 - 💡 I love new technologies. 
 
-</br>
-
 ### **_Social Media:_**
 [![Facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)](https://web.facebook.com/profile.php?id=100085827152668)
 [![Instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)](https://www.instagram.com/humbertoyupanqu3/)
