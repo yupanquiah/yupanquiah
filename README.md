@@ -1,10 +1,12 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1000&center=true&multiline=true&width=700&height=75&lines=+I'm+Humberto+Yupanqui+Apaza;Software+Engineering+student+with+AI+in+Peru)
-
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <image src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&size=25&pause=1000&center=true&multiline=true&width=700&height=75&lines=+I'm+Humberto+Yupanqui+Apaza;Software+Engineering+student+with+AI+in+Peru">  
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 ![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-
-
+ 
  ```
 A Passionate Backend Developer 
  ```
