@@ -4,8 +4,6 @@
 
 <p align="right"><strong><samp>」</samp></strong></p>
 <p align="center"><img src="https://github.com/QuixoticCS/.github/blob/main/profile/assets/footer.svg"/></p>
-
-[![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](#)
  
  ```
 A Passionate Backend Developer 
@@ -23,6 +21,10 @@ A Passionate Backend Developer
 
 - 💡 I love new technologies. 
 
+[![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](#)
+<details>
+<summary><samp>see more</samp></summary>
+
 ### **_Social Media:_**
 [![Facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)](https://web.facebook.com/profile.php?id=100085827152668)
 [![Instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)](https://www.instagram.com/humbertoyupanqu3/)
@@ -32,8 +34,6 @@ A Passionate Backend Developer
 [![Gmail](https://user-images.githubusercontent.com/109688585/197362558-c5440ea0-3c55-4ddf-aaef-ee0f6b457068.svg)](mailto:hyupanquia24@gmail.com)
 [![Codepen](https://user-images.githubusercontent.com/109688585/197363127-568d620c-1b7b-41b5-888a-629e88f54686.svg)](https://codepen.io/hyupanqui)
 
-<!-- <details align="center">
-<summary><samp>extend</samp></summary> -->
 
 | _Languages_ | _Frameworks & DB_ | _Tools_ |
 | --- | --- | --- |
@@ -41,19 +41,12 @@ A Passionate Backend Developer
 
 <p align="center">&nbsp;<img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api?username=hyupanqui&show_icons=true&locale=en&&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="hyupanqui" /> <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyupanqui&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="hyupanqui" /></p>
 
-<!-- <details align="center">
-<summary> &#9655;</summary> -->
-
-<!-- <p align="center">
-  <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="200" width="200" alt="Archcraft"></a>
-</p> -->
-
-<img align="left" height="155" src="https://i.imgur.com/xNG91mq.gif"/>
+<img align="left" src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif"  width="127" alt="Archcraft">
 
 ```diff
 ~/ fetch
 @@novice programming student@@
 + he/him/his
-- live in east java, indonesia
+- I live in Cusco, Peru
 ! coff
 ```
