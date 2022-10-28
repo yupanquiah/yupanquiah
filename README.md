@@ -5,9 +5,8 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 <p align="center"><img src="https://github.com/QuixoticCS/.github/blob/main/profile/assets/footer.svg"/></p>
  
- ```
-A Passionate Backend Developer 
- ```
+_A Passionate Backend Developer_
+
 
 <img align="right" alt="coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?height=75" width="150"/>
 
@@ -41,7 +40,7 @@ A Passionate Backend Developer
 
 <p align="center">&nbsp;<img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api?username=hyupanqui&show_icons=true&locale=en&&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="hyupanqui" /> <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyupanqui&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="hyupanqui" /></p>
 
-<img align="left" src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif"  width="127" alt="Archcraft">
+<img align="left" src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif"  width="125" alt="Archcraft">
 
 ```diff
 ~/ fetch
