@@ -7,7 +7,7 @@
  
 <!-- _A Passionate Backend Developer_ -->
 
-<img align="right" alt="coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?height=75" width="150"/>
+<img align="right" alt="coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?height=75" width="130"/>
 
 ### **_About me:_**
 
