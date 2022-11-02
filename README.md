@@ -39,7 +39,7 @@
 
 <p align="center">&nbsp;<img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api?username=hyupanqui&show_icons=true&locale=en&&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="hyupanqui" /> <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyupanqui&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="hyupanqui" /></p>
 
-<img align="left" src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif"  width="125" alt="Archcraft">
+<img align="left" src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif"  width="120" alt="Archcraft">
 
 ```diff
 ~/ fetch
