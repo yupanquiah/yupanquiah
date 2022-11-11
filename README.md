@@ -5,7 +5,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 <p align="center"><img src="https://github.com/QuixoticCS/.github/blob/main/profile/assets/footer.svg"/></p>
  
-<!-- _A Passionate Backend Developer_ -->
+<!-- _A Passionate Backend Developer_
 
 <img align="right" alt="coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?height=75" width="130"/>
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am fun and friendly.**
 
-- 💡 I love new technologies. 
+- 💡 I love new technologies.  -->
 
 [![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](#)
 <details>
