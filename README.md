@@ -3,9 +3,11 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&size=25&pause=1000&color=6791c9&center=true&multiline=true&width=700&height=75&lines=+I'm+Humberto+Yupanqui+Apaza;Software+Engineering+student+with+AI+in+Peru)](#)
 
 <p align="right"><strong><samp>」</samp></strong></p>
+
+<!--
 <p align="center"><img src="https://github.com/QuixoticCS/.github/blob/main/profile/assets/footer.svg"/></p>
  
-<!-- _A Passionate Backend Developer_
+ _A Passionate Backend Developer_
 
 <img align="right" alt="coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?height=75" width="130"/>
 
