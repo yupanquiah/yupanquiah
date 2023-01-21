@@ -1,23 +1,24 @@
-<p align="left"><strong><samp>「</samp></strong></p>
+
+<div style="display: flex; justify-content: center;  gap: 10px">
+ <img style="border-radius: 5px;" width="200px" height="180px" src="https://user-images.githubusercontent.com/115683237/213880134-6cb7d6f9-5231-4df0-af9f-f5f7352dd588.gif" alt="hyupanqui" />
+
 
 ```csharp
-    Information
-    ------------------------------------------
-    Name: Humberto
-    Lastname: Yupanqui
-    Nickname: ---
-    Gender: Male
-    Hobbies: ["Coding", "Soccer", "Music"]
-    Languages: ["Spanish", "English"]
-    Location: Cusco - Peru
-```
-
-<p align="right"><strong><samp>」</samp></strong></p>
+=> Information:
+----------------------------------------
+Name: Humberto
+Lastname: Yupanqui
+Gender: Male
+Hobbies: ["Coding", "Soccer", "Music"]
+Languages: ["Spanish", "English"]
+Location: Cusco - Peru
+``` 
+</div>
 
 [![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](#)
 
-<!-- <details>
-<summary><samp>See More</samp></summary>   -->
+<details>
+<summary><samp>See More</samp></summary>
 
 ### **_Social Media:_**
 [![Facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)](https://web.facebook.com/profile.php?id=100085827152668)
