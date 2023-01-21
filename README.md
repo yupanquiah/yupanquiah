@@ -1,14 +1,15 @@
 
-<div style="display: flex; justify-content: center;  gap: 10px">
 
-```csharp
+```css
 => About me:
-----------------------------------------
-🔭 I’m currently working on: web app development
-🌱 I’m currently learning: Mobile app development
-📫 How to reach me: hyupanqui@gmail.com
+-------------------------------------------------------
+- 🔭 I’m currently working on: web app development.
+- 🌱 I’m currently learning: Mobile app development.
+- 📫 How to reach me: hyupanqui@gmail.com.
 ``` 
 
+ <img width="25%" align="left" src="https://user-images.githubusercontent.com/115683237/213887977-edbd9bb7-adcc-4cbb-9a89-bbe19ac8f234.gif"/>
+  
 ```csharp
 => Information:
 ----------------------------------------
@@ -19,8 +20,6 @@ Hobbies: ["Coding", "Soccer", "Music"]
 Languages: ["Spanish", "English"]
 Location: Cusco - Peru
 ``` 
-
-</div>
 
 [![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](#)
 
