@@ -1,7 +1,6 @@
 
-<div style="display: flex; justify-content: center;  gap: 10px">
- <img style="border-radius: 5px;" width="200px" height="180px" src="https://user-images.githubusercontent.com/115683237/213880134-6cb7d6f9-5231-4df0-af9f-f5f7352dd588.gif" alt="hyupanqui" />
-
+<div style="display: flex; flex-direction: row; justify-content: center;  gap: 10px">
+<img align="left" style="border-radius: 5px;" width="200px" height="180px" src="https://user-images.githubusercontent.com/115683237/213880134-6cb7d6f9-5231-4df0-af9f-f5f7352dd588.gif" alt="hyupanqui" />
 
 ```csharp
 => Information:
@@ -13,6 +12,7 @@ Hobbies: ["Coding", "Soccer", "Music"]
 Languages: ["Spanish", "English"]
 Location: Cusco - Peru
 ``` 
+
 </div>
 
 [![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](#)
