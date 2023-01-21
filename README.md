@@ -1,13 +1,20 @@
 
-<div style="display: flex; flex-direction: row; justify-content: center;  gap: 10px">
-<img align="left" style="border-radius: 5px;" width="200px" height="180px" src="https://user-images.githubusercontent.com/115683237/213880134-6cb7d6f9-5231-4df0-af9f-f5f7352dd588.gif" alt="hyupanqui" />
+<div style="display: flex; justify-content: center;  gap: 10px">
+
+```csharp
+=> About me:
+----------------------------------------
+🔭 I’m currently working on: web app development
+🌱 I’m currently learning: Mobile app development
+📫 How to reach me: hyupanqui@gmail.com
+``` 
 
 ```csharp
 => Information:
 ----------------------------------------
 Name: Humberto
 Lastname: Yupanqui
-Gender: Male
+Occupation: Web Developer
 Hobbies: ["Coding", "Soccer", "Music"]
 Languages: ["Spanish", "English"]
 Location: Cusco - Peru
