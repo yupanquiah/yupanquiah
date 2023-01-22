@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on: web app development.
 - 🌱 I’m currently learning: Mobile app development.
 - 📫 How to reach me: hyupanqui@gmail.com.
-``` 
+```
 
- <img width="30%" align="left" src="https://user-images.githubusercontent.com/115683237/213887977-edbd9bb7-adcc-4cbb-9a89-bbe19ac8f234.gif"/>
+ <img width="27%" align="left" src="https://user-images.githubusercontent.com/115683237/213916496-ee9a79a5-dde3-41d0-998c-8568e1ea8e13.svg "/>
   
 ```csharp
 => Information:
