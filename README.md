@@ -2,13 +2,13 @@
 
 ```css
 => About me:
---------------------------------------------------------------
-- 🔭 I’m currently working on: Web application development.
-- 🌱 I’m currently learning: Mobile application development.
+-------------------------------------------------------
+- 🔭 I’m currently working on: web app development.
+- 🌱 I’m currently learning: Mobile app development.
 - 📫 How to reach me: hyupanqui@gmail.com.
 ``` 
 
- <img width="35%" align="left" src="https://user-images.githubusercontent.com/115683237/213887977-edbd9bb7-adcc-4cbb-9a89-bbe19ac8f234.gif"/>
+ <img width="30%" align="left" src="https://user-images.githubusercontent.com/115683237/213887977-edbd9bb7-adcc-4cbb-9a89-bbe19ac8f234.gif"/>
   
 ```csharp
 => Information:
