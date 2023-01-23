@@ -8,7 +8,7 @@
 - 📫 How to reach me: hyupanqui@gmail.com.
 ```
 
- <img width="27%" align="left" src="https://user-images.githubusercontent.com/115683237/213916496-ee9a79a5-dde3-41d0-998c-8568e1ea8e13.svg "/>
+ <img width="250px" align="left" src="https://user-images.githubusercontent.com/115683237/213916496-ee9a79a5-dde3-41d0-998c-8568e1ea8e13.svg "/>
   
 ```csharp
 => Information:
