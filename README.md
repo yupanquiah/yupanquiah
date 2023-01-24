@@ -1,8 +1,8 @@
 ```css
 => About me:
--------------------------------------------------------
+------------------------------------------------------------------
 - 🔭 I’m currently working on: web app development.
-- 🌱 I’m currently learning: Mobile app development.
+- 🌱 I’m currently learning: Mobile app development with Flutter.
 - 📫 How to reach me: hyupanqui24@gmail.com.
 ```
 
