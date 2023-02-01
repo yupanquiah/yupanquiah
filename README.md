@@ -1,5 +1,5 @@
 ```css
-=> About me:
+=> Hi there 👋, About me:
 ------------------------------------------------------------------
 - 🔭 I’m currently working on: web app development.
 - 🌱 I’m currently learning: Mobile app development with Flutter.
