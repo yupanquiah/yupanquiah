@@ -6,7 +6,7 @@
   
 ```ruby
 # Information:
-_____________________________________________________________________
+-------------------------------------------------------------------------
  + 🔭 I’m currently working on Web app development.
  + 🌱 I’m currently learning Mobile app development with Flutter.
  + 📫 How to reach me: hyupanquia24@gmail.com.
