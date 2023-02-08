@@ -1,16 +1,16 @@
 ```ruby
-- Hi there 👋, About me:
+-> Hi there. I'm Humberto, Software Enginner and Passionate about AI, Focused on Innovative and Efficient Solutions:
 ```
 
  <img width="250px" align="left" src="https://user-images.githubusercontent.com/115683237/213916496-ee9a79a5-dde3-41d0-998c-8568e1ea8e13.svg "/>
   
 ```ruby
-# Information:
+# Information about me:
 -------------------------------------------------------------------------
- + 🔭 I’m currently working on Web app development.
- + 🌱 I’m currently learning Mobile app development with Flutter.
+ + 🔭 I am Currently working on Web app Development.
+ + 🌱 I am Currently learning Mobile app Development with Flutter.
  + 📫 How to reach me: hyupanquia24@gmail.com.
- + 🔭 Hobbies: Coding, Soccer and Music.
+ + ⚡ Hobbies: Coding, Soccer and Music.
  + 💭 Languages: Spanish, English.
  + 🌏 Location: Cusco - Peru.
 ``` 
@@ -20,7 +20,7 @@
 <details>
 <summary><samp>See More</samp></summary> 
 
-### <samp> **_Social Media:_** </samp> 
+### <samp> **_Find me:_** </samp> 
 [![Facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)](https://web.facebook.com/profile.php?id=100085827152668)
 [![Instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)](https://www.instagram.com/humbertoyupanqu3/)
 [![LinkedIn](https://user-images.githubusercontent.com/109688585/197315950-06bd3031-c924-408b-9e0a-e96b968bbbd3.svg)](https://www.linkedin.com/in/humberto-yupanqui-64a299252/)
