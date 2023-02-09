@@ -22,10 +22,10 @@
 
 ### <samp> **_Find me:_** </samp> 
 [![Facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)](https://web.facebook.com/profile.php?id=100085827152668)
-[![Instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)](https://www.instagram.com/humbertoyupanqu3/)
-[![LinkedIn](https://user-images.githubusercontent.com/109688585/197315950-06bd3031-c924-408b-9e0a-e96b968bbbd3.svg)](https://www.linkedin.com/in/humberto-yupanqui-64a299252/)
-[![TikTok](https://user-images.githubusercontent.com/109688585/197315429-07ad4b38-82a5-45b3-a0f0-c3764b9280ba.svg)](https://www.tiktok.com/@humbertoyupanquii)
-[![Twitter](https://user-images.githubusercontent.com/109688585/197315432-04df6483-de28-45e5-abc3-8ae4723fdda8.svg)](https://twitter.com/HumbertoYupanq3)
+[![Instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)](https://www.instagram.com/ypnqh/)
+[![LinkedIn](https://user-images.githubusercontent.com/109688585/197315950-06bd3031-c924-408b-9e0a-e96b968bbbd3.svg)](https://www.linkedin.com/in/ypnqh/)
+[![TikTok](https://user-images.githubusercontent.com/109688585/197315429-07ad4b38-82a5-45b3-a0f0-c3764b9280ba.svg)](https://www.tiktok.com/@ypnqh/)
+[![Twitter](https://user-images.githubusercontent.com/109688585/197315432-04df6483-de28-45e5-abc3-8ae4723fdda8.svg)](https://twitter.com/ypnqh_)
 [![Gmail](https://user-images.githubusercontent.com/109688585/197362558-c5440ea0-3c55-4ddf-aaef-ee0f6b457068.svg)](mailto:hyupanquia24@gmail.com)
 [![Codepen](https://user-images.githubusercontent.com/109688585/197363127-568d620c-1b7b-41b5-888a-629e88f54686.svg)](https://codepen.io/hyupanqui)
  
