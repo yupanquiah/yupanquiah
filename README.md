@@ -32,7 +32,7 @@
  
 | <samp> _Languages_ </samp> |<samp> _Frameworks & DB_ </samp> | <samp> _Tools_ </samp>|
 | :---: | :---:| :---: |
-| ![Go](assets/Go.svg) ![Rust](assets/Rust.svg) ![JavaScript](assets/JavaScript.svg) ![TypeScript](assets/TypeScript.svg) ![HTML](assets/HTML.svg) ![CSS](assets/CSS.svg) | ![TailwindCSS](assets/TailwindCSS.svg) ![React](assets/React.svg) ![MongoDB](assets/MongoDB.svg) | ![VSCode](assets/VSCode.svg) ![PNPM](assets/PNPM.svg) ![Vite](assets/Vite.svg) ![Git](assets/Git.svg) ![Docker](assets/Docker.svg) ![Figma](assets/Figma.svg) |
+| ![Go](assets/Go.svg) ![Rust](assets/Rust.svg) ![JavaScript](assets/JavaScript.svg) ![TypeScript](assets/TypeScript.svg) ![HTML](assets/HTML.svg) ![CSS](assets/CSS.svg) | ![TailwindCSS](assets/TailwindCSS.svg) ![React](assets/React.svg) ![PostgreSQL](assets/PostgreSQL.svg) ![MongoDB](assets/MongoDB.svg) | ![VSCode](assets/VSCode.svg) ![PNPM](assets/PNPM.svg) ![Vite](assets/Vite.svg) ![Git](assets/Git.svg) ![Docker](assets/Docker.svg) ![Figma](assets/Figma.svg) |
 
 
 <div style="display: flex; justify-content: center;  gap: 2px" align="center"> <img width="350px" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ypnqh&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ypnqh" /> <img width="350px" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ypnqh&show_icons=true&locale=en&&count_private=true&hide_border=true&title_color=00bfbf&icon_color=4e6e97&text_color=c9d1d9&bg_color=0d1117" alt="ypnqh" /></div>
