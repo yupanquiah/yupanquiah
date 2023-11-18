@@ -17,8 +17,8 @@
 
 [![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](#)
 
-<!-- <details>
-<summary><samp>See More</samp></summary> -->
+<details>
+<summary><samp>See More</samp></summary>
 
 ### <samp> **_Find me:_** </samp> 
 [![Facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)](https://web.facebook.com/profile.php?id=100085827152668)
