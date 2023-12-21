@@ -6,7 +6,7 @@
 # Information about me:
 -------------------------------------------------------------------------
  + 🔭 I am Currently working on Web app Development.
- + 🌱 I am Currently learning Mobile app Development with Flutter.
+ + 🌱 I am currently learning to create API with Go.
  + 📫 How to reach me: hyupanquia24@gmail.com.
  + ⚡ Hobbies: Coding, Soccer and Music.
  + 💭 Languages: Spanish, English.
