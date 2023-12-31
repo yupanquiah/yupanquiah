@@ -1,8 +1,4 @@
 ```ruby
-- I'm Humberto, Software Enginner and Gopher 🦫, Focused on Innovative and Efficient Solutions:
-```
-  
-```ruby
 # Information about me:
 ------------------------------------------------------
  + 🔭 I am currently Working on Web app Development.
