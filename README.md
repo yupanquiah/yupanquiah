@@ -21,7 +21,7 @@
  
 ### <samp> **_Technologies:_** </samp> 
  
-| <samp> _Languages_ </samp> |<samp> _Frameworks & DB_ </samp> | <samp> _Tools_ </samp>|
+| <samp> _Languages_ </samp> | <samp> _Frameworks & DB_ </samp> | <samp> _Tools_ </samp>|
 | :---: | :---:| :---: |
 | ![Go](assets/Go.svg) ![Rust](assets/Rust.svg) ![JavaScript](assets/JavaScript.svg) ![TypeScript](assets/TypeScript.svg) | ![TailwindCSS](assets/TailwindCSS.svg) ![React](assets/React.svg) ![PostgreSQL](assets/PostgreSQL.svg) ![Redis](assets/Redis.svg) | ![VSCode](assets/VSCode.svg) ![Git](assets/Git.svg) ![Docker](assets/Docker.svg) ![Figma](assets/Figma.svg) |
 
