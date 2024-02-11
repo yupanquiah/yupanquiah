@@ -15,8 +15,8 @@
 [![Facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)](https://www.facebook.com/yupanquidev/)
 [![Instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)](https://www.instagram.com/yupanquidev/)
 [![LinkedIn](https://user-images.githubusercontent.com/109688585/197315950-06bd3031-c924-408b-9e0a-e96b968bbbd3.svg)](https://www.linkedin.com/in/yupanquidev/)
-[![TikTok](https://user-images.githubusercontent.com/109688585/197315429-07ad4b38-82a5-45b3-a0f0-c3764b9280ba.svg)](https://www.tiktok.com/@yupanquidev/)
-[![Twitter](https://user-images.githubusercontent.com/109688585/197315432-04df6483-de28-45e5-abc3-8ae4723fdda8.svg)](https://x.com/yupanquidev)
+[![TikTok](https://user-images.githubusercontent.com/109688585/197315429-07ad4b38-82a5-45b3-a0f0-c3764b9280ba.svg)](https://www.tiktok.com/@yupanquidev/) 
+[![X](assets/X.svg)](https://x.com/yupanquidev) 
 [![Gmail](https://user-images.githubusercontent.com/109688585/197362558-c5440ea0-3c55-4ddf-aaef-ee0f6b457068.svg)](mailto:yupanquidev@gmail.com)
  
 ### <samp> **_Technologies:_** </samp> 
