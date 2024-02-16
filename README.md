@@ -12,7 +12,6 @@
 <summary><samp>See More</samp></summary>
 
 ### <samp> **_Find me:_** </samp> 
-[![Facebook](https://user-images.githubusercontent.com/109688585/197315413-0807404e-7488-45d2-abad-1df6a566fb01.svg)](https://www.facebook.com/yupanquidev/)
 [![Instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)](https://www.instagram.com/yupanquidev/)
 [![LinkedIn](https://user-images.githubusercontent.com/109688585/197315950-06bd3031-c924-408b-9e0a-e96b968bbbd3.svg)](https://www.linkedin.com/in/yupanquidev/)
 [![TikTok](https://user-images.githubusercontent.com/109688585/197315429-07ad4b38-82a5-45b3-a0f0-c3764b9280ba.svg)](https://www.tiktok.com/@yupanquidev/) 
