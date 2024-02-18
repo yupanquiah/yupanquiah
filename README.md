@@ -9,7 +9,7 @@
  + 🌏 Location: Cusco - Peru.                       
 ``` 
 <details>
-<summary><samp>See More</samp></summary>
+<summary><samp>+ More</samp></summary>
 
 ### <samp> **_Find me:_** </samp> 
 [![Instagram](https://user-images.githubusercontent.com/109688585/197315418-f47d9547-74b3-4e82-b6e3-576b76e71918.svg)](https://www.instagram.com/yupanquidev/)
