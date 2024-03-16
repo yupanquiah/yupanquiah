@@ -20,7 +20,7 @@
  
 | <samp> _Languages_ </samp> | <samp> _Frameworks & DB_ </samp> | <samp> _Tools_ </samp>|
 | :---: | :---:| :---: |
-| ![Go](assets/Go.svg) ![JavaScript](assets/JavaScript.svg) ![TypeScript](assets/TypeScript.svg) | ![TailwindCSS](assets/TailwindCSS.svg) ![React](assets/React.svg) ![PostgreSQL](assets/PostgreSQL.svg) | ![VSCode](assets/VSCode.svg) ![Git](assets/Git.svg) ![Figma](assets/Figma.svg) |
+| ![Go](assets/Go.svg) ![JavaScript](assets/JavaScript.svg) ![TypeScript](assets/TypeScript.svg) | ![TailwindCSS](assets/TailwindCSS.svg) ![PostgreSQL](assets/PostgreSQL.svg) | ![VSCode](assets/VSCode.svg) ![Git](assets/Git.svg) ![Figma](assets/Figma.svg) |
 
 <table>
   <tr>
