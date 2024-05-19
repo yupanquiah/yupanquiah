@@ -2,7 +2,7 @@
 # Information about me:
 ------------------------------------------------------
  + 🔭 I am currently Working on Web app Development.
- + 🌱 I am currently Learning to Create API with Go.
+ + 🌱 I am currently Learning IA.
  + 📫 How to reach me: yupanquidev@gmail.com.       
  + ⚡ Hobbies: Coding, Soccer and Music.            
  + 💭 Languages: Spanish, English.                  
