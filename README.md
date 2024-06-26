@@ -1,5 +1,5 @@
 ```ruby
-# Information about me:
+# About me:
 ------------------------------------------------------
  + 🔭 I am currently Working on Web app Development.
  + 🌱 I am currently Learning IA.
