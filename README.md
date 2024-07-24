@@ -3,7 +3,7 @@
 ------------------------------------------------------
  + 🔭 I am currently Working on Web app Development.
  + 🌱 I am currently Learning about Rust '🦀'.
- + 📫 How to reach me: yupanquidev@gmail.com.       
+ + 📫 How to reach me: yupanquidev@gmail.com.        
  + ⚡ Hobbies: Coding, Soccer and Music.            
  + 💭 Languages: Spanish, English.                  
  + 🌏 Location: Cusco - Peru.                       
@@ -13,7 +13,7 @@
  
 ### <samp> **_Technologies:_** </samp> 
  
-| <samp> _Languages_ </samp> | <samp> _Frameworks & DB_ </samp> | <samp> _Tools_ </samp>|
+| <samp> _Languages_ </samp> | <samp> _Frameworks & DB's_ </samp> | <samp> _Tools_ </samp>|
 | :---: | :---:| :---: |
 | ![Go](assets/Go.svg) ![JavaScript](assets/JavaScript.svg) ![TypeScript](assets/TypeScript.svg) | ![TailwindCSS](assets/TailwindCSS.svg) ![PostgreSQL](assets/PostgreSQL.svg) | ![VSCode](assets/VSCode.svg) ![Git](assets/Git.svg) ![Figma](assets/Figma.svg) |
 
