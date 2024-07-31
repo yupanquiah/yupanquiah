@@ -15,7 +15,7 @@
  
 | <samp> _Languages_ </samp> | <samp> _Frameworks & DB's_ </samp> | <samp> _Tools_ </samp>|
 | :---: | :---:| :---: |
-| ![Rust](assets/Rust.svg) ![JavaScript](assets/JavaScript.svg) ![TypeScript](assets/TypeScript.svg) | ![TailwindCSS](assets/TailwindCSS.svg) ![PostgreSQL](assets/PostgreSQL.svg) | ![VSCode](assets/VSCode.svg) ![Git](assets/Git.svg) ![Figma](assets/Figma.svg) |
+| ![TypeScript](assets/TypeScript.svg) ![JavaScript](assets/JavaScript.svg) ![Rust](assets/Rust.svg) | ![TailwindCSS](assets/TailwindCSS.svg) ![PostgreSQL](assets/PostgreSQL.svg) | ![VSCode](assets/VSCode.svg) ![Git](assets/Git.svg) ![Figma](assets/Figma.svg) |
 
 <table>
   <tr>
