@@ -9,7 +9,7 @@
  + 🌏 Location: Cusco - Peru.                       
 ``` 
 <details>
-<summary><samp>+ More</samp></summary>
+<summary><samp>More +</samp></summary>
  
 ### <samp> **_Technologies:_** </samp> 
  
