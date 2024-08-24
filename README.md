@@ -2,7 +2,7 @@
 # About me:
 ------------------------------------------------------
  + 🔭 I am currently Working on Web app Development.
- + 🌱 I am currently Learning about Rust '🦀'.
+ + 🌱 I am currently Learning about Kotlin and Rust '🦀'.
  + 📫 How to reach me: yupanquidev@gmail.com.        
  + ⚡ Hobbies: Coding, Soccer and Music.            
  + 💭 Languages: Spanish, English.                  
