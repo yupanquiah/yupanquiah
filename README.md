@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td align="center" style="padding:0;width:300px;">
+    <td align="center" style="padding:0;width:50%;">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=yupanquidev&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=6ee7b7&text_color=ecfdf5&bg_color=00000000" alt="yupanquidev" />
     </td>
     <td align="center">
