@@ -15,7 +15,7 @@
  
 | <samp> _Languages_ </samp> | <samp> _Frameworks & DB's_ </samp> | <samp> _Tools_ </samp>|
 | :---: | :---:| :---: |
-| ![TypeScript](assets/TypeScript.svg) ![JavaScript](assets/JavaScript.svg) ![Rust](assets/Rust.svg) ![Kotlin](assets/Kotlin.svg) | ![PostgreSQL](assets/PostgreSQL.svg) ![TailwindCSS](assets/TailwindCSS.svg) | ![VSCode](assets/VSCode.svg) ![Git](assets/Git.svg) ![Figma](assets/Figma.svg) |
+| [![TypeScript](assets/TypeScript.svg)](https://www.typescriptlang.org/) [![JavaScript](assets/JavaScript.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![Rust](assets/Rust.svg)](https://www.rust-lang.org/) [![Kotlin](assets/Kotlin.svg)](https://kotlinlang.org/) | [![PostgreSQL](assets/PostgreSQL.svg)](https://www.postgresql.org/) [![TailwindCSS](assets/TailwindCSS.svg)](https://tailwindcss.com/) | [![VSCode](assets/VSCode.svg)](https://code.visualstudio.com/) [![Git](assets/Git.svg)](https://git-scm.com/) [![Figma](assets/Figma.svg)](https://www.figma.com/) |
 
 <table>
   <tr>
