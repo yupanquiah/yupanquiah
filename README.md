@@ -20,10 +20,10 @@
 <table>
   <tr>
     <td align="center" style="padding:0;width:300px;">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=yupanquiah&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=6ee7b7&text_color=ecfdf5&bg_color=00000000" alt="yupanquidev" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=yupanquiah&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=6ee7b7&text_color=ecfdf5&bg_color=00000000" alt="yupanquiah" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yupanquiah&show_icons=true&locale=en&&count_private=true&hide_border=true&title_color=6ee7b7&icon_color=34d399&text_color=ecfdf5&bg_color=00000000" alt="yupanquidev" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yupanquiah&show_icons=true&locale=en&&count_private=true&hide_border=true&title_color=6ee7b7&icon_color=34d399&text_color=ecfdf5&bg_color=00000000" alt="yupanquiah" />
     </td>
   </tr>
 </table>
