@@ -2,7 +2,7 @@
 # About me:
 ------------------------------------------------------
  + 🔭 I am currently Working on Web app Development.
- + 🌱 I am currently Learning about Agents.
+ + 🌱 I am currently Learning about AI.
  + 📫 How to reach me: yupanquiah@gmail.com.        
  + ⚡ Hobbies: Coding, Soccer and Music.            
  + 💭 Languages: Spanish, English.                  
