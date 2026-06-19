@@ -2,8 +2,8 @@
 # About me:
 ------------------------------------------------------
  + 🔭 I am currently Working on Web app Development.
- + 🌱 I am currently Learning about Astro.
- + 📫 How to reach me: yupanquidev@gmail.com.        
+ + 🌱 I am currently Learning about Agents.
+ + 📫 How to reach me: yupanquiah@gmail.com.        
  + ⚡ Hobbies: Coding, Soccer and Music.            
  + 💭 Languages: Spanish, English.                  
  + 🌏 Location: Cusco - Peru.                       
