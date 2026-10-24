@@ -1,10 +1,10 @@
-```ruby
-# About me:
+```rust
+ // About me:
 ------------------------------------------------------
  + 🔭 I am currently Working on Web app Development.
  + 🌱 I am currently Learning about AI.
  + 📫 How to reach me: yupanquiah@gmail.com.        
- + ⚡ Hobbies: Coding, Soccer and Music.            
+ + ☀️ Hobbies: Coding, Books and Music.            
  + 💭 Languages: Spanish, English.                  
  + 🌏 Location: Cusco - Peru.                       
 ``` 
